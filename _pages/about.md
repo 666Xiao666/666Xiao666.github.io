@@ -23,6 +23,3 @@ Research interests
 1. GPS trajectories
 1. Daily mobility
 
-#Site-wide configuration
-#------
-
