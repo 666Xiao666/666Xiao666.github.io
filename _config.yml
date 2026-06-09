@@ -27,7 +27,7 @@ author:
   name             : "Xiao Cui"
   pronouns         : # example: "she/her"  
   bio              : "Master of Geography"
-  location         : "Earth"
+ # location         : "Earth"
   employer         : "University of Zurich"
   uri              : # URL
   email            : "xiao.cui@uzh.ch" 
