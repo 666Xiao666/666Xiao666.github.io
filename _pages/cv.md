@@ -14,6 +14,12 @@ Education
 * M.S. in Geography (with the focus on Geographic Information Science and Systems)
   * 2023.09-2025.11, University of Zurich
 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Skills
 ======
 * R
