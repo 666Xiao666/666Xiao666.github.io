@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's graduate of Geography, with the focus on Geographic Information Science and Systems.
+I am a master's graduate of Geography, with the focus on [Geographic Information Science and Systems](https://www.geo.uzh.ch/en/units/gis.html).
 
 Current work
 ======
