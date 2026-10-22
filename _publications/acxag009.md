@@ -2,7 +2,7 @@
 title: "Greenspace Exposure During Everyday Mobility and Working Memory in Older Adults: Momentary Benefits Amid Stressors"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1159/ger/acxag009
+permalink: /publications/acxag009/
 excerpt: 'Behavioral Science Section'
 date: 2026-10-21
 venue: 'Gerontology'
